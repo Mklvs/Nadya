@@ -16,8 +16,6 @@
 
 <noscript><meta http-equiv="refresh" content="0; URL=/badbrowser.php"></noscript>
 
-  <link rel="stylesheet" type="text/css" href="/css/al/fonts_cnt.css?2696088870" />
-  <link rel="stylesheet" type="text/css" href="/css/al/common.css?1727051231" />
 
 <script type="text/javascript">
 var vk = {
