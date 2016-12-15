@@ -1,0 +1,103 @@
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ru" lang="ru">
+<head>
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<link rel="shortcut icon" href="/images/icons/favicons/fav_im.ico?5" />
+
+<link rel="apple-touch-icon" href="/images/safari_60.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/images/safari_76.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/images/safari_120.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/images/safari_152.png">
+
+<meta http-equiv="content-type" content="text/html; charset=windows-1251" />
+<meta name="description" content="" />
+
+
+<title>Диалоги</title>
+
+<noscript><meta http-equiv="refresh" content="0; URL=/badbrowser.php"></noscript>
+
+  <link rel="stylesheet" type="text/css" href="/css/al/fonts_cnt.css?2696088870" />
+  <link rel="stylesheet" type="text/css" href="/css/al/common.css?1727051231" />
+
+<script type="text/javascript">
+var vk = {
+  ads_rotate_interval: 120000,
+  al: parseInt('3') || 4,
+  id: 368210108,
+  intnat: '' ? true : false,
+  host: 'vk.com',
+  lang: 0,
+  rtl: parseInt('') || 0,
+  version: 827375641505,
+  stDomains: 0,
+  zero: false,
+  contlen: 141517,
+  loginscheme: 'https',
+  ip_h: '61fbb8fe0f8751136d',
+  vc_h: '584c9c31de739c3516810d3596237eff',
+  navPrefix: '/',
+  dt: parseInt('0') || 0,
+  fs: parseInt('13') || 13,
+  ts: 1481802901,
+  tz: 10800,
+  pd: 0,
+  pads: 1,
+  css_dir: '',
+  vcost: 7,
+  time: [2016, 12, 15, 14, 55, 1],
+  sampleUser: -1, spentLastSendTS: new Date().getTime(),
+  a11y: 0,
+  statusExportHash: 'fd166fbea90ff21429',
+
+  pr_tpl: "<div class=\"pr %cls%\" id=\"%id%\"><div class=\"pr_bt\"><\/div><div class=\"pr_bt\"><\/div><div class=\"pr_bt\"><\/div><\/div>",
+
+  audioInlinePlayerTpl: "<div class=\"audio_inline_player _audio_inline_player no_select\">\n  <div class=\"audio_inline_player_right\">\n    <div class=\"audio_inline_player_volume\"><\/div>\n  <\/div>\n  <div class=\"audio_inline_player_left\">\n    <div class=\"audio_inline_player_progress\"><\/div>\n  <\/div>\n<\/div>",
+
+  tnsPixelType: ''
+};
+
+window.locDomain = vk.host.match(/[a-zA-Z]+\.[a-zA-Z]+\.?$/)[0];
+var _ua = navigator.userAgent.toLowerCase();
+if (/opera/i.test(_ua) || !/msie 6/i.test(_ua) || document.domain != locDomain) document.domain = locDomain;
+var ___htest = (location.toString().match(/#(.*)/) || {})[1] || '', ___to;
+___htest = ___htest.split('#').pop();
+if (vk.al != 1 && ___htest.length && ___htest.substr(0, 1) == vk.navPrefix) {
+  if (vk.al != 3 || vk.navPrefix != '!') {
+    ___to = ___htest.replace(/^(\/|!)/, '');
+    if (___to.match(/^([^\?]*\.php|login|mobile)([^a-z0-9\.]|$)/)) ___to = '';
+    location.replace(location.protocol + '//' + location.host + '/' + ___to);
+  }
+}
+
+var StaticFiles = {
+  'common.js' : {v: 1138},
+  'fonts_cnt.css' : {v: 2696088870},
+'common.css': {v: 1727051231}
+  ,'lang0_0.js':{v:6755},'ui_common.css':{v:3721390387},'ui_common.js':{v:3069727490},'emoji.js':{v:3618761917},'notifier.css':{v:3661216644},'imn.js':{v:2844776424},'im.css':{v:2744086393},'upload.js':{v:2261157247},'notifier.js':{v:4115856303},'page.js':{v:2716982272},'page.css':{v:2375670421},'privacy.js':{v:942361231},'privacy.css':{v:3895908516},'ui_media_selector.js':{v:3601329391},'ui_media_selector.css':{v:881050964},'post.css':{v:3374747807},'indexer.js':{v:1640179507},'audioplayer.js':{v:586247174}
+}
+var abp;
+</script>
+
+<link type="text/css" rel="stylesheet" href="/css/al/ui_common.css?3721390387"></link><link type="text/css" rel="stylesheet" href="/css/al/notifier.css?3661216644"></link><link type="text/css" rel="stylesheet" href="/css/al/im.css?2744086393"></link><link type="text/css" rel="stylesheet" href="/css/al/page.css?2375670421"></link><link type="text/css" rel="stylesheet" href="/css/al/privacy.css?3895908516"></link><link type="text/css" rel="stylesheet" href="/css/al/ui_media_selector.css?881050964"></link><link type="text/css" rel="stylesheet" href="/css/al/post.css?3374747807"></link><script type="text/javascript" src="/js/loader_nav827375641505_0.js"></script><script type="text/javascript" src="/js/al/common.js?1138_542970273"></script><script type="text/javascript" src="/js/lang0_0.js?6755"></script><script type="text/javascript" src="/js/lib/px.js?ch=1"></script><script type="text/javascript" src="/js/lib/px.js?ch=2"></script><link rel="alternate" media="only screen and (max-width: 640px)" href="https://m.vk.com/mail?act=show&peer=368210108" /><link rel="alternate" href="android-app://com.vkontakte.android/vkontakte/m.vk.com/mail?act=show&peer=368210108" /><script type="text/javascript" src="/js/al/ui_common.js?3069727490"></script><script type="text/javascript" src="/js/al/emoji.js?3618761917"></script><script type="text/javascript" src="/js/al/imn.js?2844776424"></script><script type="text/javascript" src="/js/al/upload.js?2261157247"></script><script type="text/javascript" src="/js/al/notifier.js?4115856303"></script><script type="text/javascript" src="/js/al/page.js?2716982272"></script><script type="text/javascript" src="/js/al/privacy.js?942361231"></script><script type="text/javascript" src="/js/al/ui_media_selector.js?3601329391"></script><script type="text/javascript" src="/js/al/indexer.js?1640179507"></script><script type="text/javascript" src="/js/al/audioplayer.js?586247174"></script>
+
+</head>
+
+<body onresize="onBodyResize()" class="body_im">
+  <div id="system_msg" class="fixed"></div>
+  <div id="utils"></div>
+
+  <div id="layer_bg" class="fixed"></div><div id="layer_wrap" class="scroll_fix_wrap fixed layer_wrap"><div id="layer"></div></div>
+  <div id="box_layer_bg" class="fixed"></div><div id="box_layer_wrap" class="scroll_fix_wrap fixed"><div id="box_layer"><div id="box_loader"><div class="pr pr_baw pr_medium" id="box_loader_pr"><div class="pr_bt"></div><div class="pr_bt"></div><div class="pr_bt"></div></div><div class="back"></div></div></div></div>
+
+  <div id="stl_left"></div><div id="stl_side"></div>
+
+  <script type="text/javascript">domStarted();</script>
+
+  <div class="scroll_fix_wrap _page_wrap" id="page_wrap"><div><div class="scroll_fix">
+  
+
+  <div id="page_header_cont" class="page_header_cont">
+    <div class="back"></div>
+    <div id="page_header_wrap" class="page_header_wrap">
+      <a class="top_back_link" href="" id="top_back_link" onclick="if (nav.go(this, event, {back: true}) === false) { showBackLink(); return false; }" onmousedown="tnActive(this)"></a>
+      <div id="page_header" class="p_head p_head_l0" style="width: 960px">
